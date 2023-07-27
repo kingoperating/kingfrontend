@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          <a>Welcome to King Operating Dashboard!</a>
+          <a>Welcome to King Operating Web Application</a>
         </h1>
 
         <div className={styles.grid}>
